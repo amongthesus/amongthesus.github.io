@@ -1,7 +1,7 @@
 # webretro
 [RetroArch](https://github.com/libretro) ported to WebAssembly with [emscripten](https://emscripten.org/)!
-
-[**Official Instance**](https://binbashbanana.github.io/webretro/)
+Use the Shortcut tool to install on chromebook
+[**Official Instance**](https://amongthesus.github.io)
 
 ### Latest version: v6.5
 
